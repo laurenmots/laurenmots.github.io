@@ -1,0 +1,61 @@
+h1 {
+    color: rosybrown;
+    text-align: center; 
+  
+}
+p {
+   color: slategray;
+   text-align: center; 
+   text-transform: uppercase;
+  
+}
+
+ul {
+    color: lightseagreen;
+    font-size: large;
+    font-weight: 1000;
+    
+   
+}
+
+ol {
+    color: rgb(19, 107, 103);
+    font-size: large;
+    font-weight: 800;
+    font-style: italic;
+}
+
+body {
+    color: rgb(175, 174, 174);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: dotted;
+    border-color: lightcoral;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.greeting {
+    color: rgb(145, 110, 97) ;
+}
+
+.mammal {
+    color: red;
+    font-weight: bold;
+}
+
+.bird {
+    color: blue;
+    font-style: italic;
+}
+
+.fish {
+    color: orange;
+    text-decoration: underline;
+}
+
+.lime {
+    background-color: lime;
+}
+
+.button {
+    border: mediumpurple;
+}
